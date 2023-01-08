@@ -29,7 +29,9 @@ Removed null and duplicate values from the dataset. There were around 2634 missi
 Genre, director and cast was present as multiple values in one column. pandas explode function was used to unpack these values
 
 ## Exploratory Data Analysis (EDA)
-Barplot, countplot were created to show top ten directors, actors, movies, tvshow and genre. Line graph was created to show trend for movies, tv show for last ten years. Also, network graph using plotly was created to show frequency between director and actors 
+Barplot, countplot were created to show top ten directors, actors, movies, tvshow and genre. Line graph was created to show trend for movies, tv show for last ten years. Also, network graph using plotly was created to show frequency between director and actors as shown below <br>
+![download (1)](https://user-images.githubusercontent.com/108056063/211174922-9a29d24a-b6dd-449d-89ca-35394894cb9f.png)
+
 
 ## Outcome (EDA)
 It was observed that movies were more popular as compared to tv shows. Also Internal movies are most watched movies. Most of the Tv shows had season 3 or less than 3. USA followed by India watched most number of shows where Canada had the least frequency. 
